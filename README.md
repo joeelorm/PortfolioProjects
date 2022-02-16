@@ -9,5 +9,6 @@
  5. Data Preparation
 
 
- The main programming language used in this repository is Python. Visit my portfolio website at wwww.josephsegbefia.me 
+ The main programming language used in this repository is Python. Visit my portfolio website at www.josephsegbefia.me 
+ 
  Thank you for visiting.
